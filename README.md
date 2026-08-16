@@ -1,13 +1,26 @@
-#MoMo Transaction Performance & Profitability Dashboard
+# MoMo Transaction Performance & Profitability Dashboard
 
-Dashboard Power BI phân tích hiệu quả giao dịch, hành vi khách hàng, hiệu suất merchant và tác động của chính sách cashback.
+Dashboard Power BI phân tích **hiệu quả giao dịch**, **hành vi khách hàng**, **hiệu suất merchant** và **tác động của chính sách cashback**.
 
-Nội dung chính
+## Nội dung chính
 
-Tổng quan: GMV, Revenue, Transactions, Active Users và hiệu suất merchant.
+### **1. Tổng quan**
+- **GMV**
+- **Revenue**
+- **Transactions**
+- **Active Users**
+- **Hiệu suất merchant**
 
-Khách hàng: Phân tích New Users, Repeat Users, nhân khẩu học và hành vi giao dịch.
+### **2. Khách hàng**
+- Phân tích **New Users** và **Repeat Users**
+- Phân tích **nhân khẩu học**
+- Phân tích **hành vi giao dịch**
 
-Lợi nhuận: Phân tích các kịch bản cashback, contribution và break-even GMV uplift.
+### **3. Lợi nhuận**
+- Phân tích các **kịch bản cashback**
+- **Contribution**
+- **Break-even GMV uplift**
 
-Công nghệ: Power BI | DAX | Data Modeling | Excel
+### **4. Công nghệ**
+**Power BI** | **DAX** | **Data Modeling** | **Excel**
+
