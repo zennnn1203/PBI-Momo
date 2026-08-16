@@ -24,3 +24,8 @@ Dashboard Power BI phân tích **hiệu quả giao dịch**, **hành vi khách h
 ### **4. Công nghệ**
 **Power BI** | **DAX** | **Data Modeling** | **Excel**
 
+## 📊 Dashboard
+
+👉 **[View MoMo Dashboard (PDF)](./ANATICS_MoMo.pdf)**
+
+
